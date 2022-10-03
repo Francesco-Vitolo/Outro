@@ -1,0 +1,8 @@
+C:\Users\Francesco\Desktop\vs-projects\Outro\Outro\bin\Release\Outro.exe.config
+C:\Users\Francesco\Desktop\vs-projects\Outro\Outro\bin\Release\Outro.exe
+C:\Users\Francesco\Desktop\vs-projects\Outro\Outro\bin\Release\Outro.pdb
+C:\Users\Francesco\Desktop\vs-projects\Outro\Outro\obj\Release\Outro.csproj.AssemblyReference.cache
+C:\Users\Francesco\Desktop\vs-projects\Outro\Outro\obj\Release\Outro.csproj.SuggestedBindingRedirects.cache
+C:\Users\Francesco\Desktop\vs-projects\Outro\Outro\obj\Release\Outro.csproj.CoreCompileInputs.cache
+C:\Users\Francesco\Desktop\vs-projects\Outro\Outro\obj\Release\Outro.exe
+C:\Users\Francesco\Desktop\vs-projects\Outro\Outro\obj\Release\Outro.pdb
